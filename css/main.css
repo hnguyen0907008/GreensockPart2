@@ -1,0 +1,23 @@
+main 
+{
+	text-align: center;
+	padding: 140px;
+}
+
+h1, h3
+{
+	margin: 30px;
+}
+
+.container
+{
+	width: 30%;
+	display: inline-block;
+}
+
+.container img
+{
+	display: block;
+	height: 300px;
+	widows: 300px;
+}
